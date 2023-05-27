@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alexponciano2/kalsite/static/css/main.073c9b0a.css",
+    "main.js": "/alexponciano2/kalsite/static/js/main.fc98ae3b.js",
+    "static/js/787.793d75f8.chunk.js": "/alexponciano2/kalsite/static/js/787.793d75f8.chunk.js",
+    "static/media/logo.svg": "/alexponciano2/kalsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/alexponciano2/kalsite/index.html",
+    "main.073c9b0a.css.map": "/alexponciano2/kalsite/static/css/main.073c9b0a.css.map",
+    "main.fc98ae3b.js.map": "/alexponciano2/kalsite/static/js/main.fc98ae3b.js.map",
+    "787.793d75f8.chunk.js.map": "/alexponciano2/kalsite/static/js/787.793d75f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fc98ae3b.js"
+  ]
+}
